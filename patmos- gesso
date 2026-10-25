@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patmos Gesso Decorações | Excelência em Drywall e Pintura</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="hero">
+        <h1>Patmos Gesso Decorações</h1>
+        <p>Acabamentos de Excelência em Drywall e Pintura</p>
+        <div class="cta-buttons">
+            <a href="https://wa.me/seu-numero-aqui" class="btn btn-primary" target="_blank">Fale Conosco no WhatsApp</a>
+            <a href="https://instagram.com/patmosgesso" class="btn btn-secondary" target="_blank">Nosso Instagram</a>
+        </div>
+    </header>
+
+    <main class="services">
+        <h2>Nossos Serviços Especializados</h2>
+        
+        <div class="service-card">
+            <h3>Instalação de Drywall</h3>
+            <p>Forros e paredes com placas padrão, resistentes à umidade e isolamento acústico com lã de rocha para máximo conforto.</p>
+        </div>
+
+        <div class="service-card">
+            <h3>Projetos de Iluminação</h3>
+            <p>Design moderno com tabicas, cortineiros iluminados e perfis de LED para valorizar seus ambientes.</p>
+        </div>
+
+        <div class="service-card">
+            <h3>Pintura Airless</h3>
+            <p>Aplicação uniforme e de alta durabilidade. Garantimos proteção meticulosa do ambiente, cobrindo pisos, paredes e móveis para total limpeza e cuidado com a sua casa.</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>Patmos Gesso Decorações &copy; 2026. Qualidade e precisão técnica em cada detalhe.</p>
+    </footer>
+</body>
+</html>
